@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4A593b5e98690b753CAFa3C0F19c0950421E8385",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x4A593b5e98690b753CAFa3C0F19c0950421E8385",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Lucinex",
+  "SYMBOL": "LUCI",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
